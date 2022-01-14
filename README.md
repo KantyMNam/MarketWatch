@@ -1,7 +1,7 @@
 # Market Watch (Unfinished)
 
 Open source application for stocks, cryptocurrencies, and CFDs.
-License will be post soon.
+License will be posted soon.
 
 Expected features
 - API resquest for any exchanges and brokers
