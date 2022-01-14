@@ -4,7 +4,7 @@ Open source application for stock, cryptocurrency, and CFD.
 License will be post soon.
 
 Expected features
-- API resquest for any exchange or broker
+- API resquest for any exchanges and brokers
 - API bridge to standardize parameters (queries) and returned variables (JSON)
 - Expert advisor
 - Indicators
