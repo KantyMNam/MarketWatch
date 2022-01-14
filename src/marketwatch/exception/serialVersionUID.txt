@@ -1,0 +1,17 @@
+/** Negative value. Sort by ascend order (absulute value).
+/*	Ignore number of digits */
+-316116053427771167L	IdFormatException
+-4328675428048875389L	NullResultException
+-4710414150432634720L	OutOfRangeException
+-8911954330651936301L	NotExistCurrencyException
+
+
+/** Positive value. Sort by ascend order
+/*	Ignore number of digits */
+2626930351273126303L	AmountFormatException
+3568252499457814338L	DatabaseModeException
+3589476510392169741L	MarketWatchException
+399299236985190474L		ExchangeBrokerNameException
+6883844938572517747L	TimeframeException
+7250339286814406813L	SymbolException
+8632620955795663683L	NotEnoughAmountException
